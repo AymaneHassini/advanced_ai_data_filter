@@ -22,3 +22,5 @@ scheduler.pt
 config.json
 model.safetensors
 connection.py
+.ipynb_checkpoints/
+__pycache__
