@@ -1,7 +1,7 @@
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from transformers import Trainer
 
-checkpoint = "./checkpoint-30"
+checkpoint = "./checkpoint"
 
 
 def load_classifier():
